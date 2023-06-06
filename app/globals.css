@@ -25,3 +25,9 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+a, p a code {
+  color: #3eaf7c;
+  font-weight: 500;
+  text-decoration: none;
+}
