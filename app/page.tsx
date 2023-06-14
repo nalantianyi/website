@@ -1,4 +1,4 @@
-import Image from 'next/image'
+import Image from 'next/image';
 import Footer from '@/app/components/footer';
 import userPic from '../public/user.jpg';
 import mpPic from '../public/mp.jpg';

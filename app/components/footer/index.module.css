@@ -1,6 +1,11 @@
-.footer{
+.container {
     padding: 2.5rem;
     border-top: 1px solid #eaecef;
     text-align: center;
     color: #4e6e8e;
+    display: flex;
+}
+
+.beian img {
+    display: inline-block;
 }
